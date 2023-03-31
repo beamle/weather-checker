@@ -5,7 +5,7 @@ import React, {useState} from "react";
 import Input from "@mui/joy/Input";
 import {Box, Button} from "@mui/joy";
 import {capitalize} from "@mui/material";
-import config from "./config.js";
+import {config} from "./config";
 
 
 
